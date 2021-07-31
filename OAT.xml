@@ -64,6 +64,8 @@ Note:If the text contains special characters, please escape them according to th
 				<filteritem type="filename" name="_constants.py" desc="license: BSD-3-Clause，copyright: 2010 Pallets"/>
 				<filteritem type="filename" name="_native.py" desc="license: BSD-3-Clause，copyright: 2010 Pallets"/>
 				<filteritem type="filename" name="_speedups.c" desc="license: BSD-3-Clause，copyright: 2010 Pallets"/>
+				<filteritem type="filename" name="README.modification" desc="README"/>
+				<filteritem type="filename" name="README.rst" desc="README"/>
 			</filefilter>
 		</filefilterlist>
     </oatconfig>
