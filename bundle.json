@@ -1,0 +1,43 @@
+{
+    "name": "@ohos/markupsafe",
+    "version": "",
+    "description": "Third-party open-source software markupsafe | 三方开源软件markupsafe",
+    "homePage": "https://gitee.com/openharmony",
+    "license": "BSD 3-clause",
+    "repository": "https://gitee.com/openharmony/third_party_markupsafe",
+    "domain": "os",
+    "language": "",
+    "publishAs": "code-segment",
+    "private": false,
+    "scripts": {},
+    "tags": [
+        "third_party"
+    ],
+    "keywords": [
+        "third-party",
+        "markupsafe"
+    ],
+    "envs": {},
+    "dirs": {},
+    "readmePath": {
+        "en": "README.rst"
+    },
+    "licensePath": "LICENSE.rst",
+    "segment": {
+        "destPath": "third_party/markupsafe"
+    },
+    "component": {
+        "name": "thirdparty_markupsafe",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
