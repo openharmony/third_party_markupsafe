@@ -1,5 +1,5 @@
 Name: MarkupSafe
-Version: 2.1.1
+Version: 2.1.5
 License: BSD 3-clause License
 
 Website: https://palletsprojects.com/p/markupsafe/
@@ -13,7 +13,7 @@ Escaping is implemented in C so it is as efficient as possible
 
 
 Source:
-https://github.com/pallets/markupsafe/archive/refs/tags/2.1.1.zip
+https://github.com/pallets/markupsafe/archive/refs/tags/2.1.5.zip
 MD5: 43fd756864fe42063068e092e220c57b
 
 Local Modifications:
